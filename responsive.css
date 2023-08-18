@@ -1,0 +1,26 @@
+@media (max-width: 1290px){
+    
+    .container {
+        width: 100%;
+        padding-top: 3%;
+        gap: 3%;
+    }
+
+    .box{
+        margin-bottom: 3%;
+    }
+    .box:hover{
+        box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    }
+    .P{width: 97%;}
+    .M{width: 97%;}
+    .G{width: 97%;}
+    .MG{width: 97%;}
+    .L{width: 97%;}
+    
+    #wrapper {
+        min-height: 75%;
+        width: 100%;
+        position: relative;/*https://gist.github.com/malexandersalazar/8b79d4f7ba55f86d5bd3f3032d926268*/
+    }  
+}
